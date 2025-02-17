@@ -1,5 +1,12 @@
-## Hi there 👋
+## About Me
 
+Hi, I'm Phil (he/him). I like to learn new things, especially by doing stuff. Here I expand my skillset in coding through personal projects and collaborations across Github.
+
+I'm currently working on:
+- **TikTok Data Extractor** - A tool written in Python to extract TikTok video links and other data from your personal TikTok json data file export. Check out my the [tt-extractor](https://github.com/philkasper/tt-extractor) repository for more info.
+
+
+<!-- Add more stuff (like socials and how to reach me) -->
 <!--
 **philkasper/philkasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
